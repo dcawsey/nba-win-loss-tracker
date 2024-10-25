@@ -22,10 +22,11 @@
 <style>
 	div.container {
 		display: flex;
+		width: 15vw;
 	}
 
 	div.record-container {
-		margin-left: 15px;
+		margin-left: auto;
 	}
 
 	span.win {
