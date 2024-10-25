@@ -1,0 +1,166 @@
+[
+	{
+		"player": "Alex Jones",
+		"draftPosition": 1,
+		"picks": [
+			{
+				"number": 1,
+				"team": "Washington Wizards",
+				"selection": "L"
+			},
+			{
+				"number": 2,
+				"team": "Dallas Mavericks",
+				"selection": "W"
+			},
+			{
+				"number": 3,
+				"team": "Utah Jazz",
+				"selection": "L"
+			},
+			{
+				"number": 4,
+				"team": "Cleveland Cavaliers",
+				"selection": "W"
+			},
+			{
+				"number": 5,
+				"team": "Philadelphia 76ers",
+				"selection": "W"
+			},
+			{
+				"number": 6,
+				"team": "New Orleans Pelicans",
+				"selection": "W"
+			},
+			{
+				"number": 7,
+				"team": "Indiana Pacers",
+				"selection": "W"
+			}
+		]
+	},
+	{
+		"player": "Dylan Cawsey",
+		"draftPosition": 2,
+		"picks": [
+			{
+				"number": 1,
+				"team": "Portland Trail Blazers",
+				"selection": "L"
+			},
+			{
+				"number": 2,
+				"team": "Toronto Raptors",
+				"selection": "L"
+			},
+			{
+				"number": 3,
+				"team": "Minnesota Timberwolves",
+				"selection": "W"
+			},
+			{
+				"number": 4,
+				"team": "LA Clippers",
+				"selection": "L"
+			},
+			{
+				"number": 5,
+				"team": "Phoenix Suns",
+				"selection": "W"
+			},
+			{
+				"number": 6,
+				"team": "Orlando Magic",
+				"selection": "W"
+			},
+			{
+				"number": 7,
+				"team": "Golden State Warriors",
+				"selection": "W"
+			}
+		]
+	},
+	{
+		"player": "Zachary Dries",
+		"draftPosition": 3,
+		"picks": [
+			{
+				"number": 1,
+				"team": "Oklahoma City Thunder",
+				"selection": "W"
+			},
+			{
+				"number": 2,
+				"team": "Detroit Pistons",
+				"selection": "L"
+			},
+			{
+				"number": 3,
+				"team": "New York Knicks",
+				"selection": "W"
+			},
+			{
+				"number": 4,
+				"team": "Denver Nuggets",
+				"selection": "W"
+			},
+			{
+				"number": 5,
+				"team": "Milwaukee Bucks",
+				"selection": "W"
+			},
+			{
+				"number": 6,
+				"team": "San Antonio Spurs",
+				"selection": "L"
+			},
+			{
+				"number": 7,
+				"team": "Houston Rockets",
+				"selection": "L"
+			}
+		]
+	},
+	{
+		"player": "Jack Peterkin",
+		"draftPosition": 4,
+		"picks": [
+			{
+				"number": 1,
+				"team": "Brooklyn Nets",
+				"selection": "L"
+			},
+			{
+				"number": 2,
+				"team": "Boston Celtics",
+				"selection": "W"
+			},
+			{
+				"number": 3,
+				"team": "Charlotte Hornets",
+				"selection": "L"
+			},
+			{
+				"number": 4,
+				"team": "Chicago Bulls",
+				"selection": "L"
+			},
+			{
+				"number": 5,
+				"team": "Sacramento Kings",
+				"selection": "W"
+			},
+			{
+				"number": 6,
+				"team": "Atlanta Hawks",
+				"selection": "L"
+			},
+			{
+				"number": 7,
+				"team": "Memphis Grizzlies",
+				"selection": "W"
+			}
+		]
+	}
+]
