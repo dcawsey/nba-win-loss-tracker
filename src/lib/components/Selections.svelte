@@ -6,7 +6,7 @@
 </script>
 
 <div class="container">
-	<h2>{playerPicks.player}</h2>
+	<h2 class="player-heading">{playerPicks.player}</h2>
 	<h2 class="total-heading">{playerPicks.total}</h2>
 	{#each playerPicks.picks as pick}
 		<div class="team-record-container">
@@ -18,6 +18,10 @@
 <style>
 	div.container {
 		text-align: center;
+	}
+
+	h2.player-heading {
+		margin: 0;
 	}
 
 	h2.total-heading {
